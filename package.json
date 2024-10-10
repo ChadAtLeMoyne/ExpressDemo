@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ChadAtLeMoyne/ExpressDemo/issues"
   },
-  "homepage": "https://github.com/ChadAtLeMoyne/ExpressDemo#readme"
+  "homepage": "https://github.com/ChadAtLeMoyne/ExpressDemo#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
