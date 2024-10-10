@@ -5,11 +5,11 @@ var express = require("express");
 var app = express();
 const PORT = 3000;
 
-app.length('/', (req, res) => {
+app.get('/', (req, res) => {
     res.send("Is this thing on?");
 });
 
-app.length('/on', (req, res) => {
+app.get('/on', (req, res) => {
     res.send("Yep, it's on!");
 });
 
