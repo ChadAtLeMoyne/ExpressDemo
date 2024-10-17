@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<user_information>
+    <user user_id="dino">
+        <name>
+            <first_name>Dino</first_name>
+            <last_name>Doggo</last_name>
+        </name>
+        <email_address>dino@dinomail.org</email_address>
+        <pwd_hash>ljkasdjasd</pwd_hash>
+        <socials>
+            <linkedin>linkedin.com/...</linkedin>
+        </socials>
+    </user>
+</user_information>

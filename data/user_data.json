@@ -1,0 +1,22 @@
+{
+    "user_information" : [
+        {
+            "user_id"           :   "dino"
+            , "first_name"      :   "Dino"
+            , "last_name"       :   "Doggo"
+            , "email_address"   :   "dino@dinomail.org"
+            , "password_hash"   :   "khbsadvjkbasdj"
+            , "socials"         : [
+                { "linkedin"    :   "linkedin.com/in/dinodoggo" }
+                , {"tiktok"     :   "dino_doggo123"}
+            ]
+        }
+        , {
+            "user_id"           :   "sarabear"
+            , "first_name"      :   "Sara"
+            , "last_name"       :   "Beara"
+            , "email_address"   :   "sara@doggocamp.com"
+            , "password_hash"   :   "khbsadvjkbasdj"
+        }
+    ]
+}
